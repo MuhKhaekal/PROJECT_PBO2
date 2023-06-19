@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"config","l":"MyConfig"},{"p":"models","l":"Produk"},{"p":"App","l":"ShopeeCOD"}];updateSearchResults();
